@@ -3,6 +3,7 @@
 ### [Launch Website](https://kheti-mitra-cu.netlify.app/)
 ### [Access AI Model](https://colab.research.google.com/drive/1VQCEXCjFUsCiS3jYxMnuBWKc43EPre01?usp=sharing)
 ### [Watch Tutorial](https://drive.google.com/file/d/1siUmPHHIXjJvHZic4H_Qy0isSkwf7iB_/view?usp=sharing)
+![KhetiMitra-Front](https://github.com/user-attachments/assets/c141b6a6-1cc9-408f-b122-7a5237e87223)
 
 **Kheti Mitra** is a groundbreaking solution revolutionizing modern farming with **AI-powered insights** and **real-time data analytics**. Our platform integrates cutting-edge technology to support farmers in making informed decisions, enhancing productivity, and ensuring long-term sustainability. By addressing climate variability, improving seed knowledge, and increasing tech adoption, Kheti Mitra fosters resilience and efficiency in agriculture.
 
@@ -33,6 +34,8 @@ Kheti Mitra is designed to empower farmers by merging modern technology with acc
 
 ## 📊 Model Accuracy: 99.8%
 Our precision farming model achieves an impressive **99.8% accuracy** through data-driven predictions, helping farmers make optimal decisions regarding crop management, resource utilization, and harvesting schedules.
+![Model Final Accuracy](https://github.com/user-attachments/assets/ac3bc3a2-863e-46fe-a9d5-3cc727b01b2b)
+
 
 ## 🌱 Core Functionalities:
 - **AI Precision Farming**: Leverages machine learning to optimize resources by up to **25%**.
@@ -41,9 +44,12 @@ Our precision farming model achieves an impressive **99.8% accuracy** through da
 
 ## 🌐 Soil Parameter Thresholds
 Our platform uses detailed thresholds for key soil parameters such as moisture, nitrogen, and pH levels, ensuring accurate crop health assessments.
+![Soil Parameter Threshold](https://github.com/user-attachments/assets/48e920df-d0a2-4d5b-87fd-051b1eacc27f)
+
 
 ## 🔗 Inter-Parameter Dependencies
 Kheti Mitra understands the complex relationships between various soil and weather factors, providing deeper insights into how they affect overall farm performance.
+![Dependencies of Inter Parameters](https://github.com/user-attachments/assets/da85daf9-c6e9-4272-aba7-a5ae9076d4cb)
 
 ---
 
